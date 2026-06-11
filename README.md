@@ -1,8 +1,5 @@
 # work-portfolio
-Showcase what I do at work.
-
-The following projects are used in the workplace for daily/weekly/monthly reports.
-Websites are only accessed through company VPN. Sensitive login information has been censored "xxxxx."
+This repository contains projects that simulate real-world business reporting, data processing, and automation workflows based on professional experience in operations and analytics environments. All datasets, credentials, and sensitive business information have been removed or replaced with anonymized or sample data.
 ______________________________________________________________________________________
 **Python** <br /> 
 Crawling script automatically scheduled to perform on Task Scheduler. Edited on Python IDLE.
